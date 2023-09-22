@@ -1,0 +1,63 @@
+:root, .light {
+  --primary: #000000;
+  --accent: #ffffff;
+}
+
+* {
+  --background-color: var(--primary);
+  --text-color: var(--accent);
+}
+
+body {
+  margin: 0;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.root-container {
+  display: grid;
+  grid-template-rows: 30px 1fr
+}
+
+.main-section {
+  display: grid;
+  grid-template-columns: auto minmax(300px, 900px) auto
+}
+
+.main-content {
+  grid-column: 2;
+}
+
+.sidebar {
+  display: grid;
+  grid-auto-flow: row dense;
+  padding: 20px 20px 20px 20px;
+}
+
+.uppercase {
+  text-transform: uppercase
+}
+
+a, .link-button {
+  color: var(--text-color);
+  text-underline-offset: 5px;
+  text-decoration-style: dashed;
+  text-decoration-line: underline;
+}
+
+a:hover, .link-button:hover {
+  text-decoration-style: solid;
+}
+
+a:visited {
+  color: var(--text-color);
+}
+
+button {
+  cursor: pointer;
+}
+
+.no-decoration a {
+  text-decoration: none
+}
