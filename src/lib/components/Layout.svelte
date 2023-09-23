@@ -1,7 +1,7 @@
 <script lang="ts">
   import './layout.css';
   import Nav from './Nav.svelte';
-  import Search from './Search.svelte';
+  import SearchOverlay from './SearchOverlay.svelte';
 
   $: showSearch = false;
 </script>
@@ -18,6 +18,6 @@
     </div>
   </div>
   {#if showSearch}
-    <Search bind:showSearch={showSearch}></Search>
+    <SearchOverlay bind:showSearch={showSearch}></SearchOverlay>
   {/if}
 </div>
