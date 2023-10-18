@@ -12,7 +12,7 @@
 ## Directions
 
 1. Adjust oven rack to center position and preheat oven to 450°F (230°C).
-1. [Boil your potatos](/recipes/boiled-potatoes/), with a few alterations:
+1. [Boil your potatos](/recipe/boiled-potatoes/), with a few alterations:
     1. Don't add your potatos to the water until it is boiling
     1. Include the baking soda in the water
 1. Meanwhile, your fat, herbs, and a few grinds of black pepper in a small saucepan and heat over medium heat. Cook, stirring and shaking pan constantly, until fragrant and the oil is flavorful. Immediately strain oil through a fine-mesh strainer set in a large bowl. Set herb mixture aside and reserve separately.
