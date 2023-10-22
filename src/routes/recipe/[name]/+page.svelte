@@ -5,5 +5,7 @@
   $: slug = trimmedPath.slice(trimmedPath.lastIndexOf('/') + 1)
 
 </script>
-
+<svelte:head>
+  <meta property="og:title" content={slug} />
+</svelte:head>
 <Recipe bind:slug={slug}/>
