@@ -34,8 +34,8 @@
 1. Weigh out the correct amount of fragrance oil into a suitable container.
 1. When the wax reaches 175-185F (185 preffered but not higher) add 3-4 drops of any color dye. Stir softly until mixed.
 1. Pour in your fragrance oil. Stir softly for 2 minutes. Do not over stir, as this can create air bubbles.
-1. Slowly the wax into their final containers, aiming for the center as much as possible while avoiding directly hitting any wicks.
-1. Lightly tap the candles your work surface to avoid any air bubbles from forming.
+1. Slowly pour the wax into its final container, aiming for the center as much as possible while avoiding directly hitting any wicks.
+1. Lightly tap the candle on your work surface to avoid any air bubbles from forming.
 1. Ensure all wicks are centred and leave the candle to cool for 12-24 hours, open. Ensure they are seperated by about 4 inches, and placed on a wire rack or other heat-sinking surface.
 1. To clean your tools: as soon as possible wipe them off with a paper towel and rubbing alcohol.
 1. After the initial 12-24 hour rest: trim the wick to about 1/4 of an inch (6mm). Close the container.
