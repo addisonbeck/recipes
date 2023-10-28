@@ -15,7 +15,7 @@
 * 🥖 About 1/4tsp instant yeast
 * 🫒 About 1/2tbsp of olive oil, or less for a less cake-like dough. 
 * 🥄 About 1/4tsp diastatic malt powder (optional, for browning. Sugar works too, but not as well and you might want to use less).
-* 🌾 As much flour as the water will absorb. Start mixing with about 1/2 cup. Preferably use bread flour and tiny amount of whole wheat, but any flour or blend will work as long as it has a high protein percentage and develops gluten well. Most all purpose flours will work fine. 
+* 🌾 As much flour as the water will absorb. Start mixing with about 1/2 cup. Preferably use bread flour and tiny amount (think 5%) of whole wheat, but any flour or blend will work as long as it has a high protein percentage and develops gluten well. Most all purpose flours will work fine. 
 * 🥫 Sauce
 * 🧀 Grated cheese
 * 🧄 Seasonings,
