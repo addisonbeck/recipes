@@ -1,4 +1,4 @@
-# Cold Brew Coffee
+# Cold Brew Coffee ☕
 
 > Makes about 64oz of cold brew
 
