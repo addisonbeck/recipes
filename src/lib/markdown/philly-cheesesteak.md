@@ -1,14 +1,15 @@
-# Philly Cheasesteak
+# Philly Cheasesteak 🥖
 
-Serves two
+> Makes 2 1/2lb cheesesteaks
 
 ## Ingredients
 
-* 1lb of steak (flat iron or ribeye preffered), slivered
-* 2 hoagie rolls
-* 1 onion, medium diced, slow browned on low on the stove
-* A simple cheese whiz like [this one](/recipe/cheese-whiz/)
-* Wax or parchment paper, for wrapping
+* 1lb of a fattier steak (like flat iron or ribeye), slivered
+* 2 [hoagie rolls](/recipe/hoagie-roll/)
+* 1 onion, medium diced or sliced, slow browned on low on the stove
+* A simple cheese sauce [like one of these](/recipe/cheese-sauce/)
+    * If in a pinch: just use sliced white american or provolone cheese, or Kraft cheese whiz
+* For wrapping: waxpaper, parchment paper, or foil
 
 ## Instructions
 
@@ -16,10 +17,10 @@ Serves two
 1. Add the slivered steak and a pinch of salt
 1. Cook, breaking the steak up with a spatula, for about 4 minutes
 1. Add the onion, mix, and cook for an additional minute or so
-1. Add the cheese and mix
+1. Add the cheese sauce and mix
 1. Top the meat with the buns and steam them for a minute or so
 1. Flip the filling into the bun
-1. Wrap tightly with wax paper, slice, and serve
+1. Wrap tightly, slice, and serve
 
 
 

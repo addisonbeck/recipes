@@ -1,10 +1,19 @@
-# Cheese Sauce
+# Cheese Sauce 🧀
+
+> Makes 113g (4oz) Sauce
 
 ## Ingredients
 
-* 8oz cheese
-* 1/2 cup (4 fluid oz) cooking liquid (water, beer, etc.)
-* 1/2tsp sodium citrate
+* 85g cheese
+* 60g cooking liquid 
+    * This makes a cheesesteak type sauce. Add more or less liquid for a thicker or thinner sauce.
+* 3g sodium citrate
+
+### Bakers Percentage
+
+* 100% cheese
+* 70-95% liquid
+* 4% sodium citrate
 
 ## Instructions
 
@@ -13,10 +22,26 @@
 1. Bring to a simmer
 1. Add grated cheese slowly in batches. Stir until melted after each batch.
 
-## Notes
+## Variations
 
-* You can use this ratio to increase or decrease the recipe volumn: (TODO: double check this)
+> Below are some good cheese blends for various uses, and the percentage of sodium citrate to get my desired consistencies. When applicable I also some good mixins ideas.
 
-    > 100% Cheese \
-    > 35-85% liquid \
-    > 6% sodium citrate 
+### Cheese Whiz
+
+* 75% Velvetta
+* 25% Yellow american
+* 80% cooking liquid
+
+### Provolone Cheesesteak Sauce
+
+* 50% Provolone
+* 50% White American
+* 70% cooking liquid
+
+### Spicy Cheese Dip
+
+* 80% Pepper Jack
+* 20% Cheddar
+* 85% cooking liquid
+* Pickled jalapenos 
+* Rotel tomatos

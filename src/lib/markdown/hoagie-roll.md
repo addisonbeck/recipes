@@ -33,7 +33,7 @@
 1. Sprinkle a piece of parchment with cornmeal, then place the rolls onto it. Cover the rolls with a slightly damp dish towel to allow them to rise one final time.
 1. Proof the dough for an 1-2 hours, until it passes the poke test.
 1. In the meantime, preheat your oven to 500F.
-1. Beforeyou bake the rolls: score them, and brush with an egg wash. Top with sesame seeds.
+1. Before you bake the rolls: score them, and brush with an egg wash. Top with sesame seeds.
 1. Bake the rolls with steam for 10 minutes, then without steam for 6 minutes (or until browned to your liking), rotating halfway through the 6 minutes to ensure even browning.
     * There are a bunch of ways to bake rolls with steam in a home oven, including speciality pans you can buy for this exact purpose. I usually use a baking steel, a 10x4 Detroit-style pizza pan, and a couple of ice cubes. Launch the bread onto the stone, add the ice cubes, and cover with the pizza pan. For the steam-free portion of the bake, just remove the pizza pan.
 1. Allow the rolls to cool for at least an hour before cutting into them.
