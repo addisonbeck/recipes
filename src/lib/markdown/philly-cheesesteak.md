@@ -13,14 +13,14 @@
 
 ## Instructions
 
-1. Preheat something with good heat capacity (like cast iron) over medium heat
-1. Add the slivered steak and a pinch of salt
-1. Cook, breaking the steak up with a spatula, for about 4 minutes
-1. Add the onion, mix, and cook for an additional minute or so
-1. Add the cheese sauce and mix
-1. Top the meat with the buns and steam them for a minute or so
-1. Flip the filling into the bun
-1. Wrap tightly, slice, and serve
+1. Preheat something with good heat capacity (like cast iron) over medium heat.
+1. Add the slivered steak and cook, breaking the steak up with a spatula, for about 4 minutes.
+1. Salt the steak.
+1. Add the onions & mix, cooking for an additional minute or so.
+1. Add the cheese sauce and mix.
+1. Top the meat with the buns and steam them for a minute or so.
+1. Flip the filling into the bun.
+1. Wrap tightly, slice, and serve.
 
 
 
