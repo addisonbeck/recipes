@@ -1,4 +1,4 @@
-# Philly Cheasesteak 🥖
+# Philly Cheesesteak 🥖
 
 > Makes 2 1/2lb cheesesteaks
 
