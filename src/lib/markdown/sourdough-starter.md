@@ -1,5 +1,7 @@
 # Sourdough Starter 🍞
 
+> My current jar weighs 402g
+
 ## Ingredients
 
 * 20g starter
