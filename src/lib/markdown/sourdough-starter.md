@@ -1,4 +1,4 @@
-# Sourdough Starter 🍞
+# Sourdough Starter 🦠
 
 > My current jar weighs 402g
 
