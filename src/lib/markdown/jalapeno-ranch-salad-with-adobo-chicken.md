@@ -1,4 +1,4 @@
-# Jalapeno Ranch Salad With Adobo Chicken
+# Jalapeno Ranch Salad With Adobo Chicken 🥗
 
 > Recipe originally from [Cook Well](https://www.cookwell.com/recipe/jalapeno-ranch-salad-w-adobo-chicken)
 
