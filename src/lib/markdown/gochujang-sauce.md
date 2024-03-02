@@ -12,7 +12,7 @@
 * 20g or 2Tbsp ginger, grated/minced 
 * 20g or 4-5 cloves garlic, grated/minced 
 * 200g or just under 1c water 
-* Red pepper flakes to tast
+* Red pepper flakes to taste
 
 ### Backers Percentage
 
