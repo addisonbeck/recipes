@@ -22,7 +22,8 @@ jobs:
       with:
         host: ${{ secrets.DEPLOY_HOST }}
         username: ${{ secrets.DEPLOY_USERNAME }}
-        key: ${{ secrets.DEPLOY_KEY_PRI }}
+        key: ${{ secrets.DEPLOY_KEY_PRI }}  
+        passphrase: ${{ secrets.DEPLOY_KEY_PRI_PASSPHRASE}}
         source: dist/*
         target: ${{ secrets.DEPLOY_PATH }}
         strip_components: 1
