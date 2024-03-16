@@ -1,7 +1,6 @@
 # Chocolate Focaccia 🍫
 
-> Original recipe from [King
-> Arthur](https://www.kingarthurbaking.com/recipes/double-chocolate-focaccia-recipe)
+> Original recipe from [King Arthur](https://www.kingarthurbaking.com/recipes/double-chocolate-focaccia-recipe)
 
 ## Ingredients
 
