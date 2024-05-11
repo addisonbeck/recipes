@@ -14,6 +14,25 @@
 * 63% lime juice
 * 100% simple syrup
 
+## To calculate 100% from 63%
+
+(AMOUNT_OF_LIME_JUICE x 100) / 63
+
+## Alcohol Percentage
+
+* Tequila is 80%
+* Triple sec is 50%
+* Lime juice is 0%
+* Simply Syrup is 0%
+
+1fl 
+Margarita: (2oz x 40%) + (1oz x 40%) + (1oz x 0%) + (1.3oz (dilution) x 0%) = 1.2oz of alcohol
+2 x .4 + 1 x .4
+
+(2.6 x 40%) + (1.3 x 20%) + (1.6 x 0%) + (2.6 x 0%)
+* This has 8.1oz of liquid
+* 1.3fl of alcohol???
+
 ## Instructions
 
 1. Mix and freeze until ready to use
