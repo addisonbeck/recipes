@@ -7,13 +7,13 @@
 * Unsalted butter, soft but cool: 225g | 8 ounces | 2 sticks
     * Replace 1/2 of the butter with 92g of vegetable shortening if desired
 * Kosher salt: 8g | 2 teaspoons, plus more for sprinkling
-* Vanilla extraxt: 15g | 1/2 ounce | 1 tablespoon 
+* Vanilla extract: 15g | 1/2 ounce | 1 tablespoon 
     * As an alternative: 2 teaspoons of vanilla and 1/4 teaspoon almond extract
 * Baking soda: 1 teaspoon
 * Baking powder: 1/2 teaspoon
 * Egg: 1 | about 1 3/4 ounces | 50g, straight from the fridge
 * All purpose flour: 355g | 12 1/2 ounces | 2 3/4 cups 
-* Chopped chocolate: 395g | 14 ounces | 2 1/2 cups
+* Chocolate (chopped or chips): 395g | 14 ounces | 2 1/2 cups
 * (optional) Grated nutmeg: 1/8 teaspoon 
 * (optional) Espresso powder: 1/2teaspoon
 
